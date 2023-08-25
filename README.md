@@ -1,4 +1,9 @@
 # Hi there. I'm David! 👋
+I am a front-end developer with two years of experience in building various projects. 
+My expertise lies in converting both oral and written requirements into user interface and user experience specifications. 
+I am highly skilled in using React.js and JavaScript to resolve complex software issues through innovative problem-solving approaches. 
+
+
 
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=vibe-coder&show_icons=true&theme=vue-dark" />
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibe-coder&layout=compact" />
