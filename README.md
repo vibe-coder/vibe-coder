@@ -1,5 +1,5 @@
 # Hi there. I'm David! 👋
-I am a front-end developer with two years of experience in building various projects. 
+I am a front-end developer with two years of experience in building projects. 
 My expertise lies in converting both oral and written requirements into user interface and user experience specifications. 
 I am highly skilled in using React.js and JavaScript to resolve complex software issues through innovative problem-solving approaches. 
 
